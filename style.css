@@ -48,7 +48,7 @@ input[type="radio"] {
     border-radius: 50%;
     cursor: pointer;
     display: block;
-    transition: background 0.3s, box-shadow 0.3s;
+    transition: background 0.5s, box-shadow 0.5s;
 }
 .navigation label:hover {
     background: #00fc4788;
